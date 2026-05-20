@@ -37,9 +37,10 @@ def home():
             <p id="totalLinks">Total Links Checked: 0</p>
             <ul id="brokenList"></ul>
             <hr style="border-color: #222; margin-top: 20px;">
-            <p style="text-align: center; font-weight: bold; color: #00ffff;">
-                ⚠️ Want Mudassir Hussain to fix these dead links permanently? <br>
-                <a href="mailto:xavierbacklinksexpert@gmail.com" style="color: #ff0055; text-decoration: none;">Click Here to Hire Me Instantly for $85</a>
+           <p style="text-align: center; font-weight: bold; color: #00ffff; font-size: 16px;">
+                ⚠️ Want Mudassir Hussain to fix these dead links & optimize authority? <br>
+                <span style="color: #fff;">Let's secure your site traffic before it leaks.</span><br><br>
+                <a href="https://wa.me/923172931708?text=Hi+Mudassir,+I+scanned+my+website+using+your+tool+and+found+broken+links.+I+want+to+hire+you+to+fix+them." target="_blank" style="background: #ff0055; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block; font-weight: bold; margin-top: 15px;">HIRE ME TO FIX IT IMMEDIATELY ($85)</a>
             </p>
         </div>
 
