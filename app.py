@@ -77,7 +77,7 @@ def home():
                     <p style="text-align: center; font-weight: bold; color: #00ffff; font-size: 16px;">
                         ⚠️ Want Mudassir Hussain to fix these dead links & optimize authority? <br>
                         <span style="color: #fff;">Let's secure your site traffic before it leaks.</span><br><br>
-                        <a href="mailto:your-email@gmail.com?subject=SEO Fix Request for ${url}" style="background: #ff0055; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px;">HIRE ME TO FIX IT IMMEDIATELY ($85)</a>
+                       <a href="https://wa.me/923172931708?text=Hi%20Mudassir,%20I%20scanned%20my%20website%20using%20your%20tool%20and%20found%20broken%20links.%20I%20want%20to%20hire%20you%20to%20fix%20them." target="_blank" style="background: #ff0055; color: white; padding: 10px 20px;
                     </p>
                 `;
             });
